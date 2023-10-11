@@ -1,10 +1,10 @@
 {
-  "name": "@ng-select/ng-select",
-  "version": "11.0.0",
+  "name": "@uwpro/ng-select",
+  "version": "11.1.2",
   "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
-  "author": "@ng-select/ng-select",
+  "author": "@uwpro/ng-select",
   "license": "MIT",
-  "repository": "ng-select/ng-select",
+  "repository": "npnm/ng-select",
   "engines": {
     "node": ">= 16",
     "npm": ">= 8"
